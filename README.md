@@ -12,7 +12,7 @@ Driven by curiosity about how attacks unfold and how systems can be defended, Iâ
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Sehdev13/SSH-Brute-Force-Detection-Project/tree/main">SSH Brute Force Detection Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -51,5 +51,5 @@ Driven by curiosity about how attacks unfold and how systems can be defended, Iâ
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Sehdev13/SSH-Brute-Force-Detection-Project/tree/main">SSH Brute Force Detecttion Project</a>
 - SOC Automation Project
