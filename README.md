@@ -16,7 +16,7 @@ Driven by curiosity about how attacks unfold and how systems can be defended, Iâ
 
 ## Tools
 
-| Associated Project                                        | Tools         |
+| Project                                        | Tools Used        |
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/Sehdev13/SSH-Brute-Force-Detection-Project/tree/main">SSH Brute Force Detection Project</a>          | <img src="https://img.shields.io/badge/-Hydra-6C3483?&style=for-the-badge&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/-tcpdump-005C99?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Logwatch-2E4053?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-LogAnalyzer-1F618D?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-auth.log-566573?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-SNMP%20Trap%20Logs-117A65?&style=for-the-badge&logo=networkmanager&logoColor=white" /> <img src="https://img.shields.io/badge/-LibreNMS-8E44AD?&style=for-the-badge&logo=LibreNMS&logoColor=white" /> |
 
