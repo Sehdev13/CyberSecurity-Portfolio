@@ -13,12 +13,15 @@ Driven by curiosity about how attacks unfold and how systems can be defended, Iâ
 |-----------------------------------------------|----------------------------|
 | Security Monitoring & Log Analysis          | <a href="https://github.com/Sehdev13/SSH-Brute-Force-Detection-Project/tree/main">SSH Brute Force Detection Project</a>|
 | Attack Simulation & Detection Engineering | <a href="https://github.com/Sehdev13/SSH-Brute-Force-Detection-Project/tree/main">SSH Brute Force Detection Project</a>|
+| Web Server Hardening & Secure Configuration          | <a href="https://github.com/Sehdev13/Nginx-Apache-Loadbalancer">Nginx-Apache-Loadbalancer</a>|
+| Load Balancing & Reverse Proxy Engineering | <a href="https://github.com/Sehdev13/Nginx-Apache-Loadbalancer">Nginx-Apache-Loadbalancer</a>|
 
 ## Tools
 
 | Project                                        | Tools Used        |
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/Sehdev13/SSH-Brute-Force-Detection-Project/tree/main">SSH Brute Force Detection Project</a>          | <img src="https://img.shields.io/badge/-Hydra-6C3483?&style=for-the-badge&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/-Logwatch-2E4053?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-LogAnalyzer-1F618D?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-SNMP%20Trap%20Logs-117A65?&style=for-the-badge&logo=networkmanager&logoColor=white" /> <img src="https://img.shields.io/badge/-LibreNMS-8E44AD?&style=for-the-badge&logo=LibreNMS&logoColor=white" /> |
+| <a href="https://github.com/Sehdev13/Nginx-Apache-Loadbalancer">Nginx-Apache-Loadbalancer</a> | <img src="https://img.shields.io/badge/Fedora%20Linux-294172?style=for-the-badge&logo=fedora&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20HTTPD-D22128?style=for-the-badge&logo=apache&logoColor=white" /> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/firewalld-555555?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=zap&logoColor=white" /> |
 
 
 ## Certifications
@@ -30,4 +33,5 @@ Driven by curiosity about how attacks unfold and how systems can be defended, Iâ
 
 ## Projects
 - <a href="https://github.com/Sehdev13/SSH-Brute-Force-Detection-Project/tree/main">SSH Brute Force Detection Project</a>
+- <a href="https://github.com/Sehdev13/Nginx-Apache-Loadbalancer">Nginx-Apache-Loadbalancer</a>
   
