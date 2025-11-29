@@ -15,6 +15,9 @@ Driven by curiosity about how attacks unfold and how systems can be defended, Iâ
 | Attack Simulation & Detection Engineering | <a href="https://github.com/Sehdev13/SSH-Brute-Force-Detection-Project/tree/main">SSH Brute Force Detection Project</a>|
 | Web Server Hardening & Secure Configuration          | <a href="https://github.com/Sehdev13/Nginx-Apache-Loadbalancer">Nginx-Apache-Loadbalancer</a>|
 | Load Balancing & Reverse Proxy Engineering | <a href="https://github.com/Sehdev13/Nginx-Apache-Loadbalancer">Nginx-Apache-Loadbalancer</a>|
+| SIEM Rule Creation & Custom Detection Engineering | <a href="https://github.com/Sehdev13/SOC-Automation-Project/tree/main">SOC-Automation-Project</a>|
+| SOAR Workflow Automation & API Integration |  <a href="https://github.com/Sehdev13/SOC-Automation-Project/tree/main">SOC-Automation-Project</a>|
+| Security Incident Response & Case Management (SIRP) |  <a href="https://github.com/Sehdev13/SOC-Automation-Project/tree/main">SOC-Automation-Project</a>|
 
 ## Tools
 
@@ -22,6 +25,8 @@ Driven by curiosity about how attacks unfold and how systems can be defended, Iâ
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/Sehdev13/SSH-Brute-Force-Detection-Project/tree/main">SSH Brute Force Detection Project</a>          | <img src="https://img.shields.io/badge/-Hydra-6C3483?&style=for-the-badge&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/-Logwatch-2E4053?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-LogAnalyzer-1F618D?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-SNMP%20Trap%20Logs-117A65?&style=for-the-badge&logo=networkmanager&logoColor=white" /> <img src="https://img.shields.io/badge/-LibreNMS-8E44AD?&style=for-the-badge&logo=LibreNMS&logoColor=white" /> |
 | <a href="https://github.com/Sehdev13/Nginx-Apache-Loadbalancer">Nginx-Apache-Loadbalancer</a> | <img src="https://img.shields.io/badge/Fedora%20Linux-294172?style=for-the-badge&logo=fedora&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20HTTPD-D22128?style=for-the-badge&logo=apache&logoColor=white" /> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/firewalld-555555?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=zap&logoColor=white" /> |
+| <a href="https://github.com/Sehdev13/SOC-Automation-Project">SOC Automation Project</a> | <img src="https://img.shields.io/badge/-Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" /> <img src="https://img.shields.io/badge/-Shuffle%20SOAR-4A90E2?style=for-the-badge&logo=automation&logoColor=white" /> <img src="https://img.shields.io/badge/-TheHive-FEC601?style=for-the-badge&logo=apachecouchdb&logoColor=black" /> <img src="https://img.shields.io/badge/-VirusTotal-4285F4?style=for-the-badge&logo=virustotal&logoColor=white" /> <img src="https://img.shields.io/badge/-Sysmon-6C00FF?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> |
+
 
 
 ## Certifications
@@ -34,4 +39,5 @@ Driven by curiosity about how attacks unfold and how systems can be defended, Iâ
 ## Projects
 - <a href="https://github.com/Sehdev13/SSH-Brute-Force-Detection-Project/tree/main">SSH Brute Force Detection Project</a>
 - <a href="https://github.com/Sehdev13/Nginx-Apache-Loadbalancer">Nginx-Apache-Loadbalancer</a>
+- <a href="https://github.com/Sehdev13/SOC-Automation-Project">SOC Automation Project</a>
   
